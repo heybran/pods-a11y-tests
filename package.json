@@ -1,0 +1,16 @@
+{
+  "name": "pods-a11y-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "keywords": [],
+  "author": "Brandon Zhang",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.3.0",
+    "cypress-axe": "^1.5.0"
+  }
+}
